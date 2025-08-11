@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I’m Chahel, a Computer Engineering student fascinated by all things Data Science & AI/ML!
+- 📊 Exploring analytics, predictive modeling, and intelligent systems.
+- 🛠 Built projects spanning image processing, visualization, automation and many more.
+- 🤝 Open to collaborating on impactful tech and research ideas.
 <!--
 **chahelgupta/chahelgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
